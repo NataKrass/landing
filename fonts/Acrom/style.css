@@ -1,0 +1,41 @@
+/*
+@font-face {
+	font-family: 'Acrom';
+	src: url('hinted-Acrom-Thin.woff') format('woff'),
+		url('hinted-Acrom-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Acrom';
+	src: url('hinted-Acrom-Light.woff') format('woff'),
+		url('hinted-Acrom-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+*/
+
+@font-face {
+	font-family: 'Acrom';
+	src: url('hinted-Acrom-Regular.woff') format('woff'),
+		url('hinted-Acrom-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Acrom';
+	src: url('hinted-Acrom-Bold.woff') format('woff'),
+		url('hinted-Acrom-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Acrom';
+	src: url('hinted-Acrom-Medium.woff') format('woff'),
+		url('hinted-Acrom-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}

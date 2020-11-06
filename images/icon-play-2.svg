@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="40" viewBox="0 0 29 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d82541;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="plany_button" data-name="plany button" class="cls-1" d="M809.006,515l28.981,20-28.981,20V515Z" transform="translate(-809 -515)"/>
+</svg>

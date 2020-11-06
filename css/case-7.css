@@ -1,0 +1,469 @@
+.b-case-7-homescreen {
+  color: #fff;
+  background: #191B20; }
+  .b-case-7-homescreen .container:before {
+    display: block;
+    content: '';
+    padding: 76.95% 0 0; }
+  .b-case-7-homescreen .b-case-7-subtitle {
+    position: absolute;
+    right: 15px;
+    top: 52px; }
+
+.b-case-7-subtitle {
+  font: 17px/1 'Futura PT';
+  letter-spacing: 1.4px;
+  text-align: right; }
+
+.b-case-7-homescreen-inner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; }
+
+.b-case-7-homescreen-content {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  height: 100%;
+  padding: 17.8% 0 4.7%; }
+
+.b-case-7-homescreen-title {
+  font: 100px/1 'Georgia';
+  text-transform: uppercase;
+  letter-spacing: 8.35px; }
+
+.b-case-7-homescreen-text {
+  width: 267px;
+  font: 300 19px/1.53 'Futura PT'; }
+
+.b-case-7-homescreen-bg {
+  position: absolute;
+  z-index: -1;
+  left: -375px;
+  top: 0;
+  right: 50%;
+  height: 100%;
+  background: url("../images/case-7/bg-1.jpg") center no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
+  .b-case-7-homescreen-bg:after {
+    display: block;
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); }
+
+.b-case-7-style {
+  color: #fff;
+  background: #191B20;
+  overflow: hidden; }
+  .b-case-7-style .container {
+    padding-top: 102px;
+    padding-bottom: 104px; }
+
+.b-case-7-style-fonts {
+  margin: 7.6% 0 0 8.6%;
+  list-style: none; }
+  .b-case-7-style-fonts li:nth-child(1) {
+    font: 500 60px/1 'Futura PT'; }
+  .b-case-7-style-fonts li:nth-child(2) {
+    margin: 3% 0 0 6.4%;
+    font: italic 24px/1 'Cormorant Garamond';
+    color: #A5774F; }
+
+.b-case-7-style-images {
+  margin: -5px 0 0 34.2%;
+  list-style: none; }
+  .b-case-7-style-images li:nth-child(1) {
+    margin: 0 0 0 39%; }
+  .b-case-7-style-images li:nth-child(2) {
+    width: 48%;
+    margin: -7% 0 0; }
+  .b-case-7-style-images img {
+    width: 100%; }
+
+.b-case-7-style-decor {
+  position: absolute;
+  z-index: -1; }
+  .b-case-7-style-decor img {
+    width: 100%; }
+  .b-case-7-style-decor.decor-1 {
+    left: -375px;
+    bottom: 0;
+    width: 1069px; }
+
+.b-case-7-details {
+  color: #fff;
+  background: url("../images/case-7/bg-2.jpg") center no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
+  .b-case-7-details .container {
+    padding-top: 103px;
+    padding-bottom: 100px; }
+
+.b-case-7-details-icons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: 6.85% 0 0;
+  list-style: none; }
+  .b-case-7-details-icons li {
+    margin: 0 0 0 50px; }
+    .b-case-7-details-icons li:first-child {
+      margin: 0; }
+
+.b-case-7-details-colors {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  width: 65.8%;
+  margin: 4.3% 0 0;
+  font: 12px/1 'Futura PT';
+  letter-spacing: 1px;
+  text-align: center; }
+  .b-case-7-details-colors li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 15px; }
+    .b-case-7-details-colors li:nth-child(1) {
+      width: 170px;
+      height: 170px;
+      background: #A5774F; }
+    .b-case-7-details-colors li:nth-child(2) {
+      width: 70px;
+      height: 70px;
+      margin: 0 200px 0 0;
+      background: #191B20; }
+
+.b-case-7-details-content {
+  position: relative;
+  margin: -70px 0 0; }
+
+.b-case-7-details-experience {
+  position: absolute;
+  left: 0;
+  top: 0; }
+
+.b-case-7-details-experience-title {
+  color: #191B20;
+  font: 500 100px/0.7 'Futura PT';
+  text-shadow: -1px -1px 0 #A5774F, 1px -1px 0 #A5774F, -1px 1px 0 #A5774F, 1px 1px 0 #A5774F; }
+
+.b-case-7-details-experience-text {
+  max-width: 250px;
+  margin: 18px 0 0 2%;
+  font: 500 italic 20px/1.2 'Cormorant Garamond'; }
+
+.b-case-7-details-images {
+  list-style: none; }
+  .b-case-7-details-images li:nth-child(1) {
+    width: 25.65%;
+    margin: 0 0 0 auto; }
+  .b-case-7-details-images li:nth-child(2) {
+    width: 68.4%; }
+  .b-case-7-details-images img {
+    width: 100%; }
+
+.b-case-7-desktop {
+  color: #fff;
+  background: #15161B; }
+  .b-case-7-desktop .container {
+    padding-top: 102px;
+    padding-bottom: 115px; }
+
+.b-case-7-desktop-image {
+  max-width: 762px;
+  margin: 67px auto 0; }
+  .b-case-7-desktop-image img {
+    width: 100%; }
+
+.b-case-7-desktop-text {
+  max-width: 230px;
+  margin: 0 0 0 auto;
+  font: 500 italic 20px/1.2 'Cormorant Garamond';
+  color: #A5774F;
+  text-align: right; }
+
+.b-case-7-desktop-decor {
+  position: absolute;
+  z-index: -1; }
+  .b-case-7-desktop-decor img {
+    width: 100%; }
+  .b-case-7-desktop-decor.decor-1 {
+    left: -219px;
+    top: 111px;
+    width: 976px; }
+
+.b-case-7-preview {
+  background: #191B20; }
+
+.b-case-7-preview-image {
+  margin: 0 -32%; }
+  .b-case-7-preview-image img {
+    width: 100%; }
+
+.b-case-7-responsive {
+  color: #fff;
+  background: #141519;
+  overflow: hidden; }
+  .b-case-7-responsive .container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding-top: 103px;
+    padding-bottom: 409px; }
+  .b-case-7-responsive a {
+    color: #fff; }
+    .b-case-7-responsive a:hover {
+      color: #e6e6e6; }
+
+.b-case-7-responsive-icons {
+  max-width: 278px;
+  margin: 17.9% 0 0;
+  text-align: right; }
+  .b-case-7-responsive-icons img {
+    width: 100%; }
+
+.b-case-7-responsive-text {
+  max-width: 300px;
+  margin: 4.3% -10px 0 auto;
+  font: 500 italic 20px/1.2 'Cormorant Garamond';
+  color: #A5774F;
+  text-align: right; }
+
+.b-case-7-responsive-link {
+  display: inline-block;
+  position: absolute;
+  left: 9.6%;
+  bottom: 406px;
+  font: 500 22px/1 'Futura PT'; }
+
+.b-case-7-responsive-decor {
+  position: absolute; }
+  .b-case-7-responsive-decor.decor-1 {
+    left: 29.3%;
+    bottom: 0;
+    width: 41.35%;
+    margin: 0 0 11.7%; }
+  .b-case-7-responsive-decor.decor-2 {
+    top: 100%;
+    left: 9.6%;
+    width: 400px;
+    margin: -10.4% 0 0; }
+  .b-case-7-responsive-decor.decor-3 {
+    z-index: -1;
+    left: -284px;
+    top: 105px;
+    width: 976px; }
+  .b-case-7-responsive-decor img {
+    width: 100%; }
+
+@media (max-width: 1199px) {
+  .b-case-7-homescreen-inner {
+    display: block; }
+  .b-case-7-homescreen-content {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 100px 15px 50px; }
+  .b-case-7-homescreen-title {
+    font-size: 72px;
+    letter-spacing: 4px; }
+  .b-case-7-homescreen-text {
+    width: 50%;
+    margin-left: auto;
+    padding: 0 15px; }
+  .b-case-7-style-fonts li:nth-child(1) {
+    font-size: 54px; }
+  .b-case-7-details-experience-title {
+    font-size: 72px; }
+  .b-case-7-desktop-text {
+    margin-top: 5%; }
+  .b-case-7-responsive-decor.decor-1 {
+    left: 27%; }
+  .b-case-7-responsive-text {
+    margin-right: 0; }
+  .b-case-7-responsive-link {
+    left: auto;
+    right: 15px;
+    bottom: 30px; } }
+
+@media (max-width: 991px) {
+  .b-case-7-homescreen-title {
+    font-size: 64px; }
+  .b-case-7-homescreen-text {
+    margin-right: auto;
+    text-align: center; }
+  .b-case-7-homescreen-bg {
+    left: 0;
+    right: 0; }
+  .b-case-7-style .container,
+  .b-case-7-details .container,
+  .b-case-7-desktop .container {
+    padding-top: 70px;
+    padding-bottom: 70px; }
+  .b-case-7-style-fonts li:nth-child(1) {
+    font-size: 48px; }
+  .b-case-7-details-content {
+    margin: 4.3% 0 0; }
+  .b-case-7-details-icons {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .b-case-7-details-icons img {
+      width: 36px; }
+  .b-case-7-details-colors {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: auto; }
+    .b-case-7-details-colors li:nth-child(2) {
+      margin: 0 240px 0 0; }
+  .b-case-7-details-experience-title {
+    font-size: 64px; }
+  .b-case-7-details-experience-text,
+  .b-case-7-desktop-text,
+  .b-case-7-responsive-text {
+    font-size: 18px; }
+  .b-case-7-responsive .container {
+    padding-top: 70px; }
+  .b-case-7-responsive-icons {
+    margin-top: 7%; }
+  .b-case-7-responsive-decor.decor-3 {
+    opacity: 0.4; } }
+
+@media (max-width: 767px) {
+  .b-case-7-homescreen-title {
+    font-size: 48px;
+    letter-spacing: 0; }
+  .b-case-7-homescreen-text {
+    width: auto;
+    max-width: 500px;
+    font-size: 16px;
+    line-height: 1.2; }
+  .b-case-7-style-fonts li:nth-child(1) {
+    font-size: 42px; }
+  .b-case-7-style-images {
+    margin: 6.5% 0 0 20%; }
+  .b-case-7-details-experience-title {
+    font-size: 48px; }
+  .b-case-7-responsive .container {
+    padding-bottom: 70px; }
+  .b-case-7-responsive-decor.decor-1 {
+    position: relative;
+    left: auto;
+    width: auto;
+    max-width: 400px;
+    margin: 7% auto 0; } }
+
+@media (max-width: 575px) {
+  .b-case-7-homescreen .b-case-7-subtitle {
+    top: 15px; }
+  .b-case-7-homescreen-content {
+    padding-top: 50px;
+    padding-bottom: 30px; }
+  .b-case-7-homescreen-title {
+    font-size: 36px; }
+  .b-case-7-style-fonts li:nth-child(1) {
+    font-size: 36px; }
+  .b-case-7-style-images {
+    margin-left: 0; }
+  .b-case-7-details-icons li {
+    margin: 0 0 0 15px; }
+  .b-case-7-details-icons img {
+    width: 24px; }
+  .b-case-7-details-colors li:nth-child(1) {
+    width: 100px;
+    height: 100px; }
+  .b-case-7-details-colors li:nth-child(2) {
+    margin: 0 170px 0 0; }
+  .b-case-7-details-experience-title {
+    font-size: 36px; }
+  .b-case-7-details-experience {
+    position: relative;
+    text-align: center; }
+  .b-case-7-details-experience-text {
+    margin: 5px auto 0; }
+  .b-case-7-details-images {
+    margin: 5% 0 0; }
+    .b-case-7-details-images li {
+      margin-top: 30px; }
+      .b-case-7-details-images li:nth-child(1) {
+        width: 50%;
+        margin: 0 0 0 20%; }
+      .b-case-7-details-images li:nth-child(2) {
+        width: auto;
+        margin-left: 5%; }
+  .b-case-7-responsive-icons {
+    max-width: 150px; } }

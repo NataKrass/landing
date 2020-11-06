@@ -1,0 +1,468 @@
+.b-case-6-title {
+  font: bold 36px/1.2 'Gotham Pro';
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #404a50; }
+
+.b-case-6-text {
+  margin: 11px 0 0;
+  font: 16px/1.2 'Gotham Pro';
+  letter-spacing: 0.36px;
+  color: #404a50; }
+
+.b-case-6-homescreen {
+  background: url("../images/case-6/bg-1.jpg") center top no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
+  .b-case-6-homescreen .container {
+    padding-top: 138px;
+    padding-bottom: 1px; }
+
+.b-case-6-homescreen-content {
+  margin: 0 0 62.3% 8.6%; }
+
+.b-case-6-homescreen-logo {
+  display: block;
+  max-width: 370px; }
+  .b-case-6-homescreen-logo img {
+    width: 100%; }
+
+.b-case-6-homescreen-text {
+  max-width: 300px;
+  margin: 33px 0 0;
+  font: 15px/1.6 'Gotham Pro';
+  letter-spacing: 0.34px;
+  color: #404a50; }
+
+.b-case-6-homescreen-arrow {
+  width: 30px;
+  height: 30px;
+  margin: 10.1% 0 0 0;
+  border: 1px solid #cdd9e6;
+  background: url("../images/case-6/arrow-down-1.svg") center center no-repeat; }
+
+.b-case-6-homescreen-style {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  margin: 9% 0 0 0; }
+
+.b-case-6-homescreen-fonts {
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+  position: relative;
+  width: 480px;
+  margin: 0 0 3.7%;
+  padding: 57px 30px 48px;
+  text-align: center;
+  background: #fff;
+  border: 10px solid #e5ecf3;
+  -webkit-box-shadow: 0 5px 30px 0 rgba(24, 39, 54, 0.2);
+          box-shadow: 0 5px 30px 0 rgba(24, 39, 54, 0.2); }
+  .b-case-6-homescreen-fonts:before {
+    display: block;
+    content: '';
+    position: absolute;
+    left: 15px;
+    right: 15px;
+    top: 15px;
+    bottom: 15px;
+    border: 3px solid #e5ecf3; }
+
+.b-case-6-homescreen-fonts-list {
+  list-style: none;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.2; }
+  .b-case-6-homescreen-fonts-list li {
+    margin: 8px 0 0; }
+    .b-case-6-homescreen-fonts-list li:first-child {
+      margin: 0; }
+    .b-case-6-homescreen-fonts-list li:nth-child(1) {
+      font-family: 'Gotham Pro';
+      letter-spacing: 1.2px;
+      color: #404a50;
+      text-transform: uppercase; }
+    .b-case-6-homescreen-fonts-list li:nth-child(2) {
+      font-family: 'Playfair Display';
+      font-style: italic;
+      letter-spacing: 2.2px;
+      color: #ff2167;
+      text-decoration: underline; }
+
+.b-case-6-homescreen-fonts-examples {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: 33px 28px 0;
+  list-style: none; }
+  .b-case-6-homescreen-fonts-examples li {
+    width: 25%;
+    margin: 15px 0 0;
+    color: #404a50; }
+    .b-case-6-homescreen-fonts-examples li:nth-child(-n+2) {
+      font: bold 18px/1.2 'Gotham Pro'; }
+    .b-case-6-homescreen-fonts-examples li:nth-child(3) {
+      font: bold italic 18px/1.2 'Playfair Display';
+      color: #ff2167;
+      text-decoration: underline; }
+    .b-case-6-homescreen-fonts-examples li:nth-child(4) {
+      font: 16px/1.2 'Gotham Pro'; }
+
+.b-case-6-homescreen-grid {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  margin: 0 0 0 11%; }
+
+.b-case-6-homescreen-grid-items {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.b-case-6-homescreen-decor {
+  position: absolute;
+  z-index: -1; }
+  .b-case-6-homescreen-decor img {
+    width: 100%; }
+  .b-case-6-homescreen-decor.decor-1 {
+    right: -9.65%;
+    top: 5.1%;
+    width: 80.7%; }
+  .b-case-6-homescreen-decor.decor-2 {
+    right: -21.5%;
+    top: 13%;
+    width: 78.7%; }
+  .b-case-6-homescreen-decor.decor-3 {
+    left: -60.5%;
+    bottom: 33%;
+    width: 71.6%;
+    z-index: 1; }
+  .b-case-6-homescreen-decor.decor-4 {
+    right: -76.5%;
+    bottom: 36%;
+    width: 95.17%;
+    z-index: 1; }
+
+.b-case-6-homescreen-grid-items {
+  margin: 0 0 0 66px; }
+
+.b-case-6-homescreen-grid-item {
+  margin: 0 0 0 94px; }
+  .b-case-6-homescreen-grid-item.animated .b-case-6-homescreen-grid-item-content:before {
+    width: 100%; }
+  .b-case-6-homescreen-grid-item:first-child {
+    margin: 0; }
+  .b-case-6-homescreen-grid-item:nth-child(1) .b-case-6-homescreen-grid-item-content {
+    width: 30px; }
+  .b-case-6-homescreen-grid-item:nth-child(2) .b-case-6-homescreen-grid-item-content {
+    width: 70px; }
+
+.b-case-6-homescreen-grid-item-title {
+  font: 14px/1.2 'Gotham Pro';
+  letter-spacing: 0.36px;
+  text-align: center;
+  color: #404a50; }
+
+.b-case-6-homescreen-grid-item-content {
+  margin: 16px auto 0;
+  padding: 12px 0 40px;
+  border-left: 2px solid #ff286b;
+  border-right: 2px solid #ff286b; }
+  .b-case-6-homescreen-grid-item-content:before {
+    display: block;
+    content: '';
+    width: 0%;
+    height: 79px;
+    background: #ff286b;
+    -webkit-transition: width 1s ease-out;
+    -o-transition: width 1s ease-out;
+    transition: width 1s ease-out; }
+
+.b-case-6-homescreen-colors {
+  margin: 94px 0 0 0; }
+
+.b-case-6-homescreen-color-items {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 6% -145px 0 -26px; }
+
+.b-case-6-homescreen-color-item {
+  width: 33.33%; }
+  .b-case-6-homescreen-color-item.animated .b-case-6-homescreen-color-item-title:before, .b-case-6-homescreen-color-item.animated .b-case-6-homescreen-color-item-title:after {
+    opacity: 1; }
+  .b-case-6-homescreen-color-item.animated .b-case-6-homescreen-color-item-title:before {
+    left: -15.4%;
+    top: -15.4%;
+    width: 130.8%;
+    height: 130.8%; }
+  .b-case-6-homescreen-color-item.animated .b-case-6-homescreen-color-item-title:after {
+    left: -43.2%;
+    top: -43.2%;
+    width: 186.4%;
+    height: 186.4%; }
+  .b-case-6-homescreen-color-item:nth-child(1) {
+    margin: 100px 0 0; }
+    .b-case-6-homescreen-color-item:nth-child(1) .b-case-6-homescreen-color-item-content {
+      width: 251px; }
+  .b-case-6-homescreen-color-item:nth-child(2) .b-case-6-homescreen-color-item-content {
+    width: 330px; }
+  .b-case-6-homescreen-color-item:nth-child(3) {
+    margin: 159px 0 0; }
+    .b-case-6-homescreen-color-item:nth-child(3) .b-case-6-homescreen-color-item-content {
+      width: 268px; }
+
+.b-case-6-homescreen-color-item-content {
+  position: relative;
+  max-width: 80%; }
+
+.b-case-6-homescreen-color-item-image img {
+  width: 100%; }
+
+.b-case-6-homescreen-color-item-title {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 70%;
+  padding: 70% 0 0;
+  font: 16px/1.2 'Gotham Pro';
+  letter-spacing: 0.36px;
+  color: #fff; }
+  .b-case-6-homescreen-color-item-title span {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%; }
+  .b-case-6-homescreen-color-item-title:before, .b-case-6-homescreen-color-item-title:after {
+    display: block;
+    content: '';
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccd9e7;
+    -webkit-border-radius: 50%;
+            border-radius: 50%;
+    opacity: 0;
+    -webkit-transition: all 1.5s ease-out;
+    -o-transition: all 1.5s ease-out;
+    transition: all 1.5s ease-out; }
+  .b-case-6-homescreen-color-item-title:before {
+    border-width: 2px; }
+
+.b-case-6-result {
+  text-align: center;
+  background: url("../images/case-6/bg-2.jpg") center top no-repeat;
+  -webkit-background-size: cover;
+          background-size: cover; }
+  .b-case-6-result .container {
+    padding-top: 1px;
+    padding-bottom: 1px; }
+
+.b-case-6-result-content {
+  margin: -62.55% 0 23.3%; }
+
+.b-case-6-result-title {
+  font: bold 100px/1 'Playfair Display';
+  letter-spacing: 5px;
+  color: #ff286b;
+  text-transform: uppercase; }
+
+.b-case-6-result-subtitle {
+  margin: 17px 0 0;
+  font: bold 36px/1 'Gotham Pro';
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: #404a50; }
+
+.b-case-6-result-image {
+  margin: 8.2% 0 0;
+  -webkit-box-shadow: 0 5px 30px 0 rgba(24, 39, 54, 0.2);
+          box-shadow: 0 5px 30px 0 rgba(24, 39, 54, 0.2); }
+  .b-case-6-result-image img {
+    width: 100%; }
+
+.b-case-6-popups {
+  background: #fafbfc; }
+  .b-case-6-popups .container {
+    padding-top: 1px;
+    padding-bottom: 118px; }
+
+.b-case-6-popups-content {
+  margin: -10.6% 0 0; }
+
+.b-case-6-popups-items {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: -38px -15px 0; }
+
+.b-case-6-popups-item {
+  width: 41.67%;
+  margin: 0 0 30px;
+  padding: 0 15px; }
+  .b-case-6-popups-item:nth-child(4n+1) {
+    -webkit-align-self: flex-end;
+        -ms-flex-item-align: end;
+            align-self: flex-end;
+    margin-left: 16.66%; }
+  .b-case-6-popups-item img {
+    width: 100%; }
+
+.b-case-6-popups-site {
+  margin: 66px 0 0;
+  font: 14px/1.2 'Gotham Pro';
+  letter-spacing: 0.36px;
+  text-align: center; }
+  .b-case-6-popups-site a {
+    color: #404a50; }
+
+.b-case-6-popups-decor {
+  position: absolute;
+  z-index: -1; }
+  .b-case-6-popups-decor img {
+    width: 100%; }
+  .b-case-6-popups-decor.decor-1 {
+    left: -54%;
+    bottom: 38%;
+    width: 66.1%; }
+  .b-case-6-popups-decor.decor-2 {
+    right: -56%;
+    bottom: -20.5%;
+    width: 65.7%; }
+
+@media (max-width: 1199px) {
+  .b-case-6-homescreen-content {
+    margin-left: 0; }
+  .b-case-6-homescreen-arrow {
+    margin: 9.2% auto 0; }
+  .b-case-6-homescreen-style {
+    display: block; }
+  .b-case-6-homescreen-fonts {
+    width: auto;
+    max-width: 480px;
+    margin: 0 auto 3.7%; }
+  .b-case-6-homescreen-grid {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 0; }
+  .b-case-6-homescreen-color-items {
+    margin: 6% 0 0; }
+  .b-case-6-homescreen-decor {
+    z-index: -1 !important; }
+  .b-case-6-result-title {
+    font-size: 72px; }
+  .b-case-6-result-subtitle {
+    font-size: 28px; } }
+
+@media (max-width: 991px) {
+  .b-case-6-homescreen .container {
+    padding-bottom: 80px; }
+  .b-case-6-homescreen-color-item {
+    margin: 0 !important; }
+  .b-case-6-result-title {
+    font-size: 64px;
+    letter-spacing: 1px; }
+  .b-case-6-result-subtitle {
+    font-size: 24px;
+    letter-spacing: 1px; }
+  .b-case-6-popups-items {
+    margin-top: 30px; } }
+
+@media (max-width: 767px) {
+  .b-case-6-homescreen-color-item-title {
+    font-size: 14px;
+    letter-spacing: 0; }
+  .b-case-6-result-title {
+    font-size: 48px; }
+  .b-case-6-result-subtitle {
+    font-size: 20px; } }
+
+@media (max-width: 575px) {
+  .b-case-6-title {
+    font-size: 28px;
+    letter-spacing: 0; }
+  .b-case-6-homescreen .container {
+    padding-top: 80px; }
+  .b-case-6-homescreen-logo {
+    max-width: 90%;
+    margin: 0 auto; }
+  .b-case-6-homescreen-text {
+    margin: 30px auto 0;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: center; }
+  .b-case-6-homescreen-fonts {
+    margin-bottom: 50px; }
+  .b-case-6-homescreen-fonts-list li {
+    font-size: 18px;
+    letter-spacing: 0.5px !important; }
+  .b-case-6-homescreen-fonts-examples {
+    margin: 30px 0 0; }
+    .b-case-6-homescreen-fonts-examples li {
+      width: 50%; }
+  .b-case-6-homescreen-grid {
+    display: block; }
+    .b-case-6-homescreen-grid .b-case-6-title,
+    .b-case-6-homescreen-grid .b-case-6-text {
+      text-align: center; }
+  .b-case-6-homescreen-grid-items {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin: 30px 0 0; }
+  .b-case-6-homescreen-color-item-title {
+    display: none; }
+  .b-case-6-result-title {
+    font-size: 36px;
+    letter-spacing: 0; }
+  .b-case-6-result-subtitle {
+    font-size: 18px;
+    letter-spacing: 0; }
+  .b-case-6-popups-items {
+    display: block;
+    margin-top: 0; }
+  .b-case-6-popups-item {
+    width: auto;
+    margin: 30px 0 0 !important; } }

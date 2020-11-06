@@ -1,0 +1,119 @@
+/*
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-XThin.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-XThin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-XThinItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-XThinItalic.ttf') format('truetype');
+	font-weight: 100;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Thin.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Thin.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-ThinItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-ThinItalic.ttf') format('truetype');
+	font-weight: 200;
+	font-style: italic;
+}
+*/
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Light.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+/*
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-LightItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-LightItalic.ttf') format('truetype');
+	font-weight: 300;
+	font-style: italic;
+}
+*/
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Regular.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Bold.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+/*
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Italic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-BoldItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+*/
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-Medium.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/*
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-MediumItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-MediumItalic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-XBlack.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-XBlack.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'PF Din Text Comp Pro';
+	src: url('hinted-PFDinTextCompPro-XBlackItalic.woff') format('woff'),
+		url('hinted-PFDinTextCompPro-XBlackItalic.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+*/

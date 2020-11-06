@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MXX6979');</script>
+		<!-- End Google Tag Manager -->
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, maximum-scale=1">
+        <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/loader.css"/>
+
+
+
+        <link href="https://landing.ua/blog/wp-content/themes/landing-new/favicon.ico" rel="shortcut icon">
+        <meta name="description" content='Разработка эффективных Landing Page "под ключ" | Лучшие Landing Page в Украине'>
+
+        <title>Landing.ua — Разработка эффективных Landing Page "под ключ" | Лучшие Landing Page в Украине.</title>
+        
+		<!-- На сайт LANDING . UA зарегистрированы авторские права. Копирование уголовно наказуемо. -->
+
+  <script type="text/javascript">
+  document.ondragstart = noselect;
+   document.onselectstart = noselect;
+   document.oncontextmenu = noselect;
+   function noselect() {return false;}
+ </script> 
+
+		
+		
+<script type="text/javascript">
+function slyLink() {
+  var istS = 'landingua digital agency скопирован тут:'; // если ты это читаешь, мы уже знаем кто ты и где ты ;-)
+  var copyR = '©landingua'; // жулик, не воруй!
+  var body_element = document.getElementsByTagName('body')[0];
+  var choose;
+  choose = window.getSelection();
+  var myLink = document.location.href;
+  var authorLink = "" + istS + ' ' + ""+myLink+"" + copyR;
+  var copytext = choose + authorLink;
+  var addDiv = document.createElement('div');
+  addDiv.style.position = 'absolute';
+  addDiv.style.left = '-99999px';
+  body_element.appendChild(addDiv);
+  addDiv.innerHTML = copytext;
+  choose.selectAllChildren(addDiv);
+  window.setTimeout(function() {
+    body_element.removeChild(addDiv);
+  },0);
+}
+document.oncopy = slyLink;
+</script>
+
+    <!-- НА landing.ua ЗАРЕГИСТРИРОВАНЫ АВТОРСКИЕ ПРАВА. ЛЮБАЯ ПОПЫТКА КОПИИ ВЫЛОЖЕННАЯ В ИНТЕРНЕТ БУДЕТ НАКАЗАНА В СООТВЕТСТВИИ С ЗАКОНАМИ УКРАИНЫ. -->
+    <!-- НА ВАШЕ НЫТЬЕ И ИЗВИНЕНИЯ, КОГДА МЫ ВАС НАЙДЕМ, ВНИМАНИЯ ОБРАЩАТЬ МЫ УЖЕ НЕ БУДЕМ. ВАС ПРЕДУПРЕДИЛИ!!!-->
+	</head>
+    <body  oncopy="return false;">
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXX6979"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) --><div class="wrapper page-blog">
+	<div class="main-nav clearfix active blog-nav">
+                <a href="https://landing.ua/blog" class="logo scroll" data-scroll="#head">
+                    <img src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/images/elements/logo-dark.png">
+                </a>
+                <ul>
+                    <li><a href="https://landing.ua/blog">Главная</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#about" class="scroll">Про нас</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#results" class="scroll">Результаты</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#services" class="scroll">Кому это подойдет</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#portfolio" class="scroll">Портфолио</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#prices" class="scroll">Цены</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#work" class="scroll">Как мы работаем</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#review" class="scroll">Отзывы</a></li>
+                    <li><a href="javascript:void(0)" data-scroll="#contacts" class="scroll">Контакты</a></li>
+                </ul>
+                <div class="nav-bars hidden-lg hidden-md">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+    </div>
+	
+	<div class="block-title">
+		<div class="container">
+			<b>Блог LANDING.UA</b>
+			Концентрат ценнейшей информации по созданию<br/> конверсионных сайтов от профессионалов
+		</div>
+	</div>
+<ul class="breadcrumb">Главная</ul>
+	
+	<div class="container-full container-blog">
+		<div class="column-left">
+			<div class="blog-grid">
+			
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/kak-prodvigat-sajt-v-top-10-poiskovyx-sistem.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2017/03/blog-1.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/kak-prodvigat-sajt-v-top-10-poiskovyx-sistem.html">Как продвигать сайт в ТОП-10 поисковых систем</a></h2>
+														<a href="https://landing.ua/blog/kak-prodvigat-sajt-v-top-10-poiskovyx-sistem.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/google-adwords-editor-uvelichivaem-skorost-raboty.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-2.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/google-adwords-editor-uvelichivaem-skorost-raboty.html">Google AdWords Editor – увеличиваем скорость работы</a></h2>
+														<a href="https://landing.ua/blog/google-adwords-editor-uvelichivaem-skorost-raboty.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/4-shaga-k-idealnoj-pozicii-v-yandex-direct.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-3.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/4-shaga-k-idealnoj-pozicii-v-yandex-direct.html">4 шага к идеальной позиции в Yandex.Direct</a></h2>
+														<a href="https://landing.ua/blog/4-shaga-k-idealnoj-pozicii-v-yandex-direct.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/zachem-nuzhny-razlichnye-istochniki-posetitelej.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-4.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/zachem-nuzhny-razlichnye-istochniki-posetitelej.html">Зачем нужны различные источники посетителей?</a></h2>
+														<a href="https://landing.ua/blog/zachem-nuzhny-razlichnye-istochniki-posetitelej.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col col-full">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/chto-takoe-lidogeneraciya.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-5.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/chto-takoe-lidogeneraciya.html">Что такое лидогенерация?</a></h2>
+														<a href="https://landing.ua/blog/chto-takoe-lidogeneraciya.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/chto-takoe-vneshnyaya-optimizaciya-sajta.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-6.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/chto-takoe-vneshnyaya-optimizaciya-sajta.html">Что такое внешняя оптимизация сайта?</a></h2>
+														<a href="https://landing.ua/blog/chto-takoe-vneshnyaya-optimizaciya-sajta.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+									
+					<div class="col ">
+												<div class="image-wrap">
+						<a href="https://landing.ua/blog/dobavlyaem-sajt-v-google-maps.html" class="image-bg" style="background-image: url(https://landing.ua/blog/wp-content/uploads/2015/01/blog-7.jpg);">
+													</a>
+						</div>
+						<div class="article-content">
+							<div class="bottom-line">
+																							</div>
+							<h2><a href="https://landing.ua/blog/dobavlyaem-sajt-v-google-maps.html">Добавляем сайт в Google Maps</a></h2>
+														<a href="https://landing.ua/blog/dobavlyaem-sajt-v-google-maps.html" class="small-btn">Читать далее</a>
+						</div>
+						
+					</div>	
+					
+								
+				
+			
+						 
+								
+			</div><!-- /blog-grid -->
+			
+			<div class="button-center">
+			
+									<script>
+					var ajaxurl = 'https://landing.ua/blog/wp-admin/admin-ajax.php';
+					var true_posts = 'a:65:{s:9:"showposts";i:7;s:5:"paged";i:0;s:5:"error";s:0:"";s:1:"m";s:0:"";s:1:"p";i:0;s:11:"post_parent";s:0:"";s:7:"subpost";s:0:"";s:10:"subpost_id";s:0:"";s:10:"attachment";s:0:"";s:13:"attachment_id";i:0;s:4:"name";s:0:"";s:6:"static";s:0:"";s:8:"pagename";s:0:"";s:7:"page_id";i:0;s:6:"second";s:0:"";s:6:"minute";s:0:"";s:4:"hour";s:0:"";s:3:"day";i:0;s:8:"monthnum";i:0;s:4:"year";i:0;s:1:"w";i:0;s:13:"category_name";s:0:"";s:3:"tag";s:0:"";s:3:"cat";s:0:"";s:6:"tag_id";s:0:"";s:6:"author";s:0:"";s:11:"author_name";s:0:"";s:4:"feed";s:0:"";s:2:"tb";s:0:"";s:8:"meta_key";s:0:"";s:10:"meta_value";s:0:"";s:7:"preview";s:0:"";s:1:"s";s:0:"";s:8:"sentence";s:0:"";s:5:"title";s:0:"";s:6:"fields";s:0:"";s:10:"menu_order";s:0:"";s:5:"embed";s:0:"";s:12:"category__in";a:0:{}s:16:"category__not_in";a:0:{}s:13:"category__and";a:0:{}s:8:"post__in";a:0:{}s:12:"post__not_in";a:0:{}s:13:"post_name__in";a:0:{}s:7:"tag__in";a:0:{}s:11:"tag__not_in";a:0:{}s:8:"tag__and";a:0:{}s:12:"tag_slug__in";a:0:{}s:13:"tag_slug__and";a:0:{}s:15:"post_parent__in";a:0:{}s:19:"post_parent__not_in";a:0:{}s:10:"author__in";a:0:{}s:14:"author__not_in";a:0:{}s:19:"ignore_sticky_posts";b:0;s:16:"suppress_filters";b:0;s:13:"cache_results";b:1;s:22:"update_post_term_cache";b:1;s:19:"lazy_load_term_meta";b:1;s:22:"update_post_meta_cache";b:1;s:9:"post_type";s:0:"";s:14:"posts_per_page";i:7;s:8:"nopaging";b:0;s:17:"comments_per_page";s:2:"50";s:13:"no_found_rows";b:0;s:5:"order";s:4:"DESC";}';
+					var current_page = 1;
+					var max_pages = '7';
+					</script>
+					<a href="#" class="small-btn" id="load-more">Показать еще</a>
+							</div>
+		</div>
+		<div class="column-right">
+			<div class="social-widget">
+				<div class="widget-name">Подписывайтесь на нас</div>
+				<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flandingua%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1700778533329392" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+			</div>
+			<div class="subscribe-form">
+				<div class="widget-name">
+					Ценные письма про бизнес и маркетинг раз в неделю
+				</div>
+				<form method="POST" id="subscribe">
+					<input type="text" name="email" placeholder="Введите ваш E-mail" />
+					<a href="#" class="small-btn">Подписаться</a>
+				</form>
+			</div>
+			<div class="widget-recommend">
+				<div class="widget-name">Рекомендуем почитать</div>
+												<div class="link"><a href="https://landing.ua/blog/problemy-kommunikacii-s-klientami.html">Проблемы коммуникации с клиентами</a></div>
+								<div class="link"><a href="https://landing.ua/blog/5-poleznyx-funkcij-yandex-commander.html">5 полезных функций Yandex.Commander</a></div>
+								<div class="link"><a href="https://landing.ua/blog/prognoziruem-tochnyj-byudzhet-v-yandex-direct-vtoraya-chast.html">Прогнозируем точный бюджет в Yandex.Direct.</a></div>
+								<div class="link"><a href="https://landing.ua/blog/chto-takoe-vneshnyaya-optimizaciya-sajta.html">Что такое внешняя оптимизация сайта?</a></div>
+							</div>
+		</div>
+		
+		
+	</div>
+	
+	<div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <a href="tel:+380663739638" class="footer-link">+38 (066) <span>37 39 638</span></a>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="rights">
+                        2009 - 2017 © Landing.ua Все права защищены. Копирование
+                        контента / дизайна преследуется по закону.
+                    </div>
+                    <div class="denial-wrap">
+                        <a href="https://landing.ua/blog/wp-content/themes/landing-new/renouncement.html" target="_blank">
+                           Отказ от ответственности
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-right">
+                    <a href="mailto:mail@landing.ua" class="footer-link">
+                        <span>mail</span>@landing.ua
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/bootstrap.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/fonts/fonts.css"/>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/animate.css"/>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/tooltipster.bundle.css"/>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/tooltipster-sideTip-shadow.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/style.css"/>
+	<link rel="stylesheet" type="text/css" href="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/css/style-blog.css"/>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/bootstrap.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/jquery.maskedinput.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/protect.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/nicescroll.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/fancybox/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/slick.min.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/tooltipster.bundle.min.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/wow.min.js"></script>
+    <script type="text/javascript" src="https://landing.ua/blog/wp-content/themes/landing-new/old-layout/js/main.js"></script>
+    <script type="text/javascript" src="https://landing.ua/wp-content/themes/landing/js/share42/share42.js"></script>
+
+<script type="text/javascript">
+    (function(d, w, s) {
+    var widgetHash = 'efk3ijrba22canq6bxfw', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
+    gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
+    var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
+    })(document, window, 'script');
+</script>
+
+<script>
+		if($(window).outerWidth() < 992){
+			$('.video-bg').html('');
+		}else{
+		    $(window).on('load', function(){
+			$('.promo .video-bg').html('<video loop="loop" muted autoplay class="promo-video"> <source src="https://landing.ua/blog/wp-content/themes/landing-new/video/header.mp4"></video>');
+
+			$('.contacts .video-bg').html('<video loop="loop" muted autoplay class="contacts-video"><source src="https://landing.ua/blog/wp-content/themes/landing-new/video/splash.mp4"></video>');
+		    });
+		}
+	</script>
+
+</html>
